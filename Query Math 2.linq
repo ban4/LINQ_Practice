@@ -20,4 +20,4 @@ var results = from g in Genres
 						Price = t.UnitPrice
 					}
 			  };
-results.Dump("Query Math 2");y
+results.Dump("Query Math 2");
